@@ -20,7 +20,7 @@
   <b>Bachelor of Technology (B.Tech) – Information Technology</b><br>
   Jawaharlal Nehru Technological University, Kakinada (JNTUK)<br>
   <i>2023 – 2027</i><br>
-  GPA: <b>5.78 / 10.0</b>
+  CGPA: <b>6.13 / 10.0</b>
 </p>
 
 <br>
@@ -108,8 +108,8 @@
 
 <h2>💻 Coding Profiles</h2>
 <ul>
-  <li><a href="https://leetcode.com/" target="_blank">LeetCode</a></li>
-  <li><a href="https://www.hackerrank.com/" target="_blank">HackerRank</a></li>
+  <li><a href="https://leetcode.com/u/238w1a12c3/" target="_blank">LeetCode</a></li>
+  <li><a href="https://www.hackerrank.com/profile/238w1a12c31" target="_blank">HackerRank</a></li>
 </ul>
 
 <hr>
@@ -117,7 +117,7 @@
 <h2>📫 Contact</h2>
 <ul>
   <li>Email: <a href="mailto:thesyed0107@gmail.com">thesyed0107@gmail.com</a></li>
-  <li>GitHub: <a href="https://github.com/your-username">your-username</a></li>
+  <li>GitHub: <a href="https://github.com/bashasyed1">bashasyed1</a></li>
 </ul>
 
 <hr>
