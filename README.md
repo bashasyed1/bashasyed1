@@ -86,7 +86,7 @@
 <h2>📫 Contact Me</h2>
 <ul>
   <li>Email: <a href="mailto:thesyed0107@gmail.com">thesyed0107@gmail.com</a></li>
-  <li>GitHub: <a href="https://github.com/your-username">your-username</a></li>
+  <li>GitHub: <a href="https://github.com/bashasyed1">your-username</a></li>
 </ul>
 
 <hr>
