@@ -118,7 +118,7 @@
 <ul>
   <li>Email: <a href="mailto:thesyed0107@gmail.com">thesyed0107@gmail.com</a></li>
   <li>GitHub: <a href="https://github.com/bashasyed1">bashasyed1</a></li>
-  <li>LinkedIN: <a href="https://www.linkedin.com/in/syed-basha-8a8a7b281/">LinkedIN</a></li>
+  <li>LinkedIN: <a href="https://www.linkedin.com/in/syed-basha-8a8a7b281/">bashasyed</a></li>
 </ul>
 
 <hr>
