@@ -77,8 +77,8 @@
 
 <h2>💻 Coding Profiles</h2>
 <ul>
-  <li><a href="https://leetcode.com/" target="_blank">LeetCode</a></li>
-  <li><a href="https://www.hackerrank.com/" target="_blank">HackerRank</a></li>
+  <li><a href="https://leetcode.com/u/238w1a12c3/" target="_blank">LeetCode</a></li>
+  <li><a href="https://www.hackerrank.com/profile/238w1a12c31" target="_blank">HackerRank</a></li>
 </ul>
 
 <hr>
