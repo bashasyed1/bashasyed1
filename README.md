@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Basha</h1>
+<h1 align="center">Hi 👋, I'm Basha Syed</h1>
 <h3 align="center">B.Tech IT Student | Flutter Developer | Tech Enthusiast</h3>
 
 <hr>
