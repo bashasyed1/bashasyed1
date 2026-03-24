@@ -20,7 +20,6 @@
   <b>Bachelor of Technology (B.Tech) – Information Technology</b><br>
   Jawaharlal Nehru Technological University, Kakinada (JNTUK)<br>
   <i>2023 – 2027</i><br>
-  CGPA: <b>6.13 / 10.0</b>
 </p>
 
 <br>
