@@ -147,13 +147,6 @@
       thesyed0107@gmail.com
     </a>
   </li>
-  <li>Phone: +91 9059234291</li>
-  <li>
-    GitHub:
-    <a href="https://github.com/bashasyed1" target="_blank">
-      bashasyed1
-    </a>
-  </li>
   <li>
     LinkedIn:
     <a href="https://www.linkedin.com/in/syed-basha-8a8a7b281/" target="_blank">
