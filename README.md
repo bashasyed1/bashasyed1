@@ -8,9 +8,7 @@
   <li>🎓 B.Tech student in Information Technology</li>
   <li>☁️ Interested in Mobile App Development, Cybersecurity, Web Development, and Cloud Computing</li>
   <li>💡 Passionate about building real-world software solutions</li>
-  <li>🚀 Skilled in Mobile Application Development using Flutter and Android Studio</li>
   <li>🧠 Strong Problem-Solving, Analytical Thinking, and Debugging Abilities</li>
-  <li>🤝 Effective Team Player with Strong Communication and Collaboration Skills</li>
   <li>🌱 Continuously Learning and Exploring New Technologies</li>
 </ul>
 
