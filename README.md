@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mahboob Basha Syed</h1>
-<h3 align="center">B.Tech IT Student | Flutter Developer | Cloud Enthusiast</h3>
+<h3 align="center">B.Tech IT Student | Mobile Application Developer | Cloud Enthusiast</h3>
 
 <hr>
 
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>🎓 B.Tech student in Information Technology</li>
-  <li>📱 Flutter Developer Intern at ECX Industries</li>
-  <li>☁️ Interested in Mobile App Development, Web Development, and Cloud Computing</li>
-  <li>🌱 Currently improving Flutter, React, and AWS Cloud skills</li>
+  <li>☁️ Interested in Mobile App Development, Cybersecurity, Web Development, and Cloud Computing</li>
   <li>💡 Passionate about building real-world software solutions</li>
+  <li>🚀 Skilled in Mobile Application Development using Flutter and Android Studio</li>
+  <li>🧠 Strong Problem-Solving, Analytical Thinking, and Debugging Abilities</li>
+  <li>🤝 Effective Team Player with Strong Communication and Collaboration Skills</li>
+  <li>🌱 Continuously Learning and Exploring New Technologies</li>
 </ul>
 
 <hr>
@@ -25,13 +27,6 @@
 
 <br>
 
-<h4>Narayana Junior College, Vuyyuru</h4>
-<p>
-  <b>Higher Secondary Education (Intermediate)</b><br>
-  <i>2021 – 2023</i><br>
-  Percentage: <b>88.2%</b> (882 / 1000)
-</p>
-
 <hr>
 
 <h2>🛠️ Skills</h2>
@@ -39,6 +34,7 @@
 <h4>Languages</h4>
 <ul>
   <li>C (Advanced)</li>
+  <li>C++</li>
   <li>Java</li>
   <li>Python</li>
   <li>HTML & CSS</li>
